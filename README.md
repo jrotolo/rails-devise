@@ -1,7 +1,7 @@
 Rails React Devise
 ================
 
-This is a skeleton app which includes:
+This is a starter rails app which includes:
 - Rails 4.1
 - React.js
 - Devise Authentication and Users / Pundit
