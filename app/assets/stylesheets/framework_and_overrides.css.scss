@@ -1,7 +1,15 @@
 // import the CSS framework
 @import "foundation";
 
+$include-html-top-bar-classes: $include-html-classes;
+
+// Background color for the top bar
+$topbar-bg-color: $charcoal;
+
 // override for the 'Home' navigation link
+.top-bar {
+  background-color: $topbar-bg-color;
+}
 .top-bar .name {
   font-size: rem-calc(13);
   line-height: 45px; }
