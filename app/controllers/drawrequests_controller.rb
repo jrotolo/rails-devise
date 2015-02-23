@@ -1,0 +1,2 @@
+class DrawrequestsController < ApplicationController
+end
